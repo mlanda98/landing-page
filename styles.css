@@ -22,3 +22,23 @@ body{
   margin-right: auto;
   font-weight: bold;
 }
+.content-1{
+  display: flex;
+  margin: 100px 150px 100px 150px;
+  gap: 300px;
+  
+}
+
+.ocean-pic{
+  width: 400px;
+}
+
+.sign-up-button{
+  background-color: rgb(20, 123, 234);
+  color: white;
+  border: none;
+  padding: 5px 27px 5px 27px;
+  border-radius: 4px;
+  cursor: pointer;
+  
+}

@@ -16,9 +16,10 @@ body{
 .header{
   display: flex;
   gap: 20px;
-  margin-left: 40px;
+  margin: 0 150px 0 150px;
 }
 
 .push-left{
   margin-right: auto;
+  font-weight: bold;
 }

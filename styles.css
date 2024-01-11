@@ -26,6 +26,7 @@ body{
   display: flex;
   margin: 100px 150px 100px 150px;
   gap: 300px;
+  flex: 1;
   
 }
 

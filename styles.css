@@ -26,8 +26,9 @@ body{
 .content-1{
   display: flex;
   margin: 100px 150px 100px 150px;
-  gap: 300px;
+  gap: 200px;
   flex: 1;
+ 
   
 }
 

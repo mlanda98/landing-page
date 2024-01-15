@@ -88,5 +88,36 @@ body{
   margin:10px 0px 40px 600px;
   font-weight: bold;
   font-size: 20px;
-  font-style:normal
+  font-style:normal;
 }
+
+.section-3{
+  margin: 80px 100px 80px 100px;
+}
+.section-3{
+  background: #3882F6;
+  color:#F9FAF8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 200px;
+  line-height: 5px;
+  padding: 30px 120px 30px 120px;
+  margin: 100px 200px 100px 200px;
+  
+}
+
+.description{
+  font-weight: lighter;
+}
+
+.sign-up-button-2{
+ color: #F9FAF8;
+ border-color: #F9FAF8;
+ border-radius: 6px;
+ padding: 5px 30px 5px 30px;
+ background-color:#3882F6;
+ border-style: solid;
+}
+
+

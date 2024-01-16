@@ -10,6 +10,9 @@ body{
 .hero{
   background: #1F2937;
   color: #F9FAF8;
+
+  min-width: 500px;
+  overflow-x: scroll;
   
 }
 
@@ -104,9 +107,7 @@ body{
   font-style:normal;
 }
 
-.section-3{
-  margin: 80px 100px 80px 100px;
-}
+
 .section-3{
   background: #3882F6;
   color:#F9FAF8;
